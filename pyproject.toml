@@ -15,8 +15,7 @@ dependencies = [
     "bs4",
     "chromadb",
     "gradio",
-    "llama-index",
-    "llama-index-packs-self-rag",
-    "llama-index-embeddings-huggingface",
-    "llama-index-llms-huggingface"
+    "langgraph",
+    "langchain-text-splitters",
+    "langchain-qdrant"
 ]
