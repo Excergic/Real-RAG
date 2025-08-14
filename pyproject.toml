@@ -17,5 +17,6 @@ dependencies = [
     "gradio",
     "langgraph",
     "langchain-text-splitters",
-    "langchain-qdrant"
+    "langchain-qdrant",
+    "langchain-pinecone"
 ]
